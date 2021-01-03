@@ -13,3 +13,5 @@ The Venture capitalist would like to identify the startup’s success by analyzi
 
 In this project, the whole Data Science Pipeline is implemented, from Data Cleaning and Exploratory Analysis to model reation and hyperparameter tuning. Models like Linear Regression, Decision Tree Regressors and Random Forest Regressors are used and compared in an algorithmic way.
 The final result is a tree that explains 98% of the variability of the data on an unseen partition (test set).
+
+![Resulting Tree](https://github.com/aristizabal95/Startup-Profit-Prediction-Project/blob/master/tree.png)
